@@ -4,6 +4,8 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 ## 简介
 在 [狮尾圆体](https://github.com/max32002/swei-gothic) 的基础上，缩小字面至 97.5%，适量增大字距，并做适量加粗，使其更适合手机屏幕显示。
 
+西文搭配经过调整处理的 [Baloo 2](https://github.com/EkType/Baloo2) 字体。
+
 暂时只有简体中文（SC）版本。
 
 ## 授权信息
