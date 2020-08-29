@@ -8,6 +8,9 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 
 暂时只有简体中文（SC）版本。
 
+## 预览
+![dHQPPg.png](https://s1.ax1x.com/2020/08/29/dHQPPg.png)
+
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
 - 免费使用，包括商用，无需付费、告知或标明原作者；
