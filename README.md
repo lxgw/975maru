@@ -4,7 +4,7 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 ## 简介
 在 [狮尾圆体](https://github.com/max32002/swei-gothic) 的基础上，缩小字面至 97.5%，适量增大字距，并做适量加粗，使其更适合手机屏幕显示。
 
-暂时只有简体中文（SC）版本，剔除 'locl' 特性以减小字体体积。
+暂时只有简体中文（SC）版本。
 
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
