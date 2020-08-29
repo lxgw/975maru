@@ -13,10 +13,17 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 - 在此基础上进行修改或二次创作，但改作后的字体也应遵循 SIL OFL 1.1 条款开源发布。
 
 ## 鸣谢
-- [思源黑体](https://github.com/adobe-fonts/source-han-sans)
-- [Noto Sans CJK](https://github.com/googlefonts/noto-cjk)
-- [狮尾圆体](https://github.com/max32002/swei-gothic)
-- [Baloo 2](https://github.com/EkType/Baloo2)
+- [思源黑体](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
+- [Noto Sans CJK](https://github.com/googlefonts/noto-cjk) *by Google*
+- [狮尾圆体](https://github.com/max32002/swei-gothic) *by Max Yao*
+- [Baloo 2](https://github.com/EkType/Baloo2) *by EkType*
+
+## 相关项目
+### 975 系列
+- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
+### 日系手写字体中文化
+- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai=font)
 
 ## 联系作者
 
