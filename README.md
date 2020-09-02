@@ -25,8 +25,8 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [猫啃网](https://www.maoken.com/freefonts/6327.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
-3. [蓝奏云下载 Magisk 模块，密码 bquo](https://www.lanzoux.com/b0cqi3x9c)
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/6339.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
+3. [蓝奏云下载 Magisk 模块，密码 axme](https://www.lanzoux.com/b0cqi47ng)
 
 ## 鸣谢
 - [思源黑体 / Source Han Sans](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
