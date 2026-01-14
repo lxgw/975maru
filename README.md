@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
+
 # 975 圆体 / 975 Maru
 A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑体/狮尾圆体的中文字体。
 
