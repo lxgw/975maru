@@ -2,10 +2,10 @@
 > 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
 
 # 975 圆体 / 975 Maru
-A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑体/狮尾圆体的中文字体。
+A Chinese Font Derived from Source Han Sans / Swei Gothic / Chi. 一款基于思源黑体/狮尾圆体的中文字体。
 
 ## 简介
-在 [狮尾圆体](https://github.com/max32002/swei-gothic) 的基础上调整。在保持原有字符宽度的同时，缩小字面至 97.5%，并做少许加粗，使其更适合手机屏幕阅读。
+本字体最初在 [狮尾圆体](https://github.com/max32002/swei-gothic) 的基础上调整。在保持原有字符宽度的同时，缩小字面至 97.5%，并做少许加粗，使其更适合手机屏幕阅读。后汉字部分改用 [昭源环方](https://github.com/chiron-fonts/chiron-go-round-tc) 和 [文渊圆体](https://github.com/takushun-wu/WenYuanFonts)。
 
 西文搭配经过调整处理的 [Baloo 2](https://github.com/EkType/Baloo2) 字体。
 
@@ -17,8 +17,8 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 ## 注意事项
 - 这不是一个专业的字体文件。
 - 已知问题：
-  - ~在中文和西文合并的过程中，思源黑体原有的 OpenType 特性丢失，会导致纵向排版特性无法正常体现。~ *（9 月 2 日上传的版本已尝试解决。）*
-  - ~字形（glyph）有偏左的问题。~  *（9 月 2 日上传的版本已尝试解决。）*
+  - ~在中文和西文合并的过程中，思源黑体原有的 OpenType 特性丢失，会导致纵向排版特性无法正常体现。~ *（2020 年 9 月 2 日上传的版本已尝试解决。）*
+  - ~字形（glyph）有偏左的问题。~  *（2020 年 9 月 2 日上传的版本已尝试解决。）*
 
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
@@ -36,6 +36,8 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic. 一款基于思源黑
 - [Noto Sans CJK](https://github.com/googlefonts/noto-cjk) *by Google*
 - [狮尾圆体 / Swei Gothic](https://github.com/max32002/swei-gothic) *by Max Yao*
 - [Baloo 2](https://github.com/EkType/Baloo2) *by EkType*
+- [昭源环方](https://github.com/chiron-fonts/chiron-go-round-tc) *by tamcy*
+- [文渊圆体](https://github.com/takushun-wu/WenYuanFonts) *by takushun*
 
 ## 相关项目
 ### 975 系列
