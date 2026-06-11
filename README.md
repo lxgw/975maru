@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
 
-# 975 圆体 / 975 Maru
+# 霞鹜 975 圆体 / LXGW 975 Maru
 A Chinese Font Derived from Source Han Sans / Swei Gothic / Chiron Go Round TC / WenYuan Rounded. 一款基于思源黑体/狮尾圆体/昭源环方/文渊圆体的中文字体。
 
 ## 简介
