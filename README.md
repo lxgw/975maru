@@ -15,7 +15,11 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 目前只有简体中文（SC）版本。
 
 ## 预览
-![dHQPPg.png](https://s1.ax1x.com/2020/08/29/dHQPPg.png)
+![](./documentation/975maru-1.png)
+![](./documentation/975maru-2.png)
+![](./documentation/975maru-3.png)
+![](./documentation/975maru-4.png)
+![](./documentation/975maru-5.png)
 
 ## 注意事项
 - 这不是一个专业的字体文件。
@@ -31,8 +35,9 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [猫啃网](https://www.maoken.com/freefonts/6339.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
-3. [蓝奏云下载 Magisk 模块，密码 axme](https://www.lanzoux.com/b0cqi47ng)
+2. 进入 [Releases 页面](https://github.com/lxgw/975gothic/releases) 下载。
+3. 进入 [猫啃网](https://www.maoken.com/freefonts/6339.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
+4. [蓝奏云下载 ~~Magisk 模块~~，密码 axme](https://www.lanzoux.com/b0cqi47ng)
 
 ## 鸣谢
 - [思源黑体 / Source Han Sans](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
