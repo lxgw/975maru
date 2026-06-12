@@ -2,7 +2,8 @@
 > 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
 
 # 975 圆体 / 975 Maru
-A Chinese Font Derived from Source Han Sans / Swei Gothic / Chiron Go Round TC / WenYuan Rounded. 一款基于思源黑体/狮尾圆体/昭源环方/文渊圆体的中文字体。
+A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and WenYuan Rounded.   
+一款基于「思源黑体」「狮尾圆体」「昭源环方」「文渊圆体」的中文字体。
 
 ## 简介
 本字体最初在 [狮尾圆体](https://github.com/max32002/swei-gothic) 的基础上调整。在保持原有字符宽度的同时，缩小字面至 97.5%，并做少许加粗，使其更适合手机屏幕阅读。
@@ -11,7 +12,7 @@ A Chinese Font Derived from Source Han Sans / Swei Gothic / Chiron Go Round TC /
 
 西文搭配经过调整处理的 [Baloo 2](https://github.com/EkType/Baloo2) 字体。
 
-暂时只有简体中文（SC）版本。
+目前只有简体中文（SC）版本。
 
 ## 预览
 ![dHQPPg.png](https://s1.ax1x.com/2020/08/29/dHQPPg.png)
