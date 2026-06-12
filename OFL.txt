@@ -1,6 +1,13 @@
+Copyright 2020, 2026 LXGW (https://github.com/lxgw/975maru)
+Copyright 2014-2025 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Copyright 2024-2026 Tamcy (https://github.com/chiron-fonts/chiron-go-round-tc), 
+Copyright 2024-2026 Takushun Wu (https://github.com/takushun-wu/)
+Copyright 2020 Chun yu Yao (https://github.com/max32002/swei-gothic)
+Copyright 2019 Ek Type (www.ektype.in)
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+http://openfontlicense.org
 
 
 -----------------------------------------------------------
