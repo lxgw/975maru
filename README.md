@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
 
-# 975 圆体 / 975 Maru
+# 975 圆体 / 975 MaruGo
 A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and WenYuan Rounded.   
 一款基于「思源黑体」「狮尾圆体」「昭源环方」「文渊圆体」的中文字体。
 
@@ -35,7 +35,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-2. 进入 [Releases 页面](https://github.com/lxgw/975gothic/releases) 下载。
+2. 进入 [Releases 页面](https://github.com/lxgw/975maru/releases) 下载。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/6339.html) 下载，GitHub 项目更新后，会联系猫啃网站长进行同步更新。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。
 4. [蓝奏云下载 ~~Magisk 模块~~，密码 axme](https://www.lanzoux.com/b0cqi47ng)
 
